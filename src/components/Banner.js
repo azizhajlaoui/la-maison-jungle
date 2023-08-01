@@ -1,4 +1,3 @@
-
 import '../styles/banner.css'
 
 function Banner({ children }) {
