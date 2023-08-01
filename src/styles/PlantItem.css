@@ -12,3 +12,6 @@
     flex-direction: column;
     text-transform: capitalize;
 }
+.lmj-plant-item-price{
+    display: none;
+}
